@@ -15,12 +15,18 @@ UsedLibrary="/Applications/EAGLE-7.7.0/lbr/led.lbr"
 UsedLibrary="/Applications/EAGLE-7.7.0/lbr/supply1.lbr"
 
 [Win_1]
+Type="Control Panel"
+Loc="4 23 603 422"
+State=2
+Number=0
+
+[Win_2]
 Type="Board Editor"
-Loc="0 0 1279 799"
+Loc="4 23 1279 777"
 State=2
 Number=2
 File="teiler10e7V3.brd"
-View="25.1861 0.784641 56.5551 30.9649"
+View="9.5885 -6.24078 72.3265 54.1198"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -60,10 +66,10 @@ AddLevel=2
 PadsSameType=0
 Layer=16
 
-[Win_2]
+[Win_3]
 Type="Schematic Editor"
 Loc="4 23 1279 777"
-State=0
+State=2
 Number=1
 File="teiler10e7V3.sch"
 View="3.58927 21.0634 221.993 176.126"
@@ -108,14 +114,8 @@ Layer=91
 Views=" 1: 3.58927 21.0634 221.993 176.126"
 Sheet="1"
 
-[Win_3]
-Type="Control Panel"
-Loc="108 95 707 494"
-State=2
-Number=0
-
 [Desktop]
-Screen="640 480"
+Screen="1280 800"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
