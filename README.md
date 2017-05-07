@@ -30,5 +30,10 @@ The 10 MHz signal - a sine wave with about 10 Vss - is converted into TTL with a
 A detailed description will come soon.
 
 
-
 ![circuitdiagram.png](/circuitdiagram.png)
+
+This is the finished PCB 
+
+![pcb_teiler.png](/pcb_teiler.png)
+
+

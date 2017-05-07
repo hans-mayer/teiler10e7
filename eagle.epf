@@ -68,7 +68,7 @@ Layer=16
 
 [Win_3]
 Type="Schematic Editor"
-Loc="4 23 1279 777"
+Loc="1 23 1276 777"
 State=2
 Number=1
 File="teiler10e7V3.sch"
