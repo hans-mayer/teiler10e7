@@ -38,3 +38,8 @@ This is the finished PCB (component site) <br>
 The soldering site has only the connector JP1
 
 ![pcb_teiler.png](/pcb_teiler.png)
+
+See also:
+
+* [Stratum-1 NTP Server with rubidium source](http://blog.mayer.tv/2017/06/11/stratum-0-server.html){:target="_blank"}
+* [Banana Pi - GPIO - WiringBP](http://blog.mayer.tv/2016/01/08/bananapi-gpio-wiringbp.html){:target="_blank"}
