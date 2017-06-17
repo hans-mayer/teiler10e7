@@ -39,9 +39,13 @@ The soldering site has only the connector JP1
 
 ![pcb_teiler.png](/pcb_teiler.png)
 
+This is the same but on my breadboard before I developed the PCB with Eagle. 
+
+![breadboard](/breadboard.png){: width="800px"}
+
 See also:
 
-* [Stratum-1 NTP Server with rubidium source](http://blog.mayer.tv/2017/06/11/stratum-0-server.html)
-* [Banana Pi - GPIO - WiringBP](http://blog.mayer.tv/2016/01/08/bananapi-gpio-wiringbp.html)
-
+* [Stratum-1 NTP Server with rubidium source](http://blog.mayer.tv/2017/06/11/stratum-0-server.html){:target="_blank"}
+* [Banana Pi - GPIO - WiringBP](http://blog.mayer.tv/2016/01/08/bananapi-gpio-wiringbp.html){:target="_blank"}
+* [failed first attempt with 74HC4059](http://blog.mayer.tv/2016/01/01/cd47hc4059.html){:target="_blank"}
 
